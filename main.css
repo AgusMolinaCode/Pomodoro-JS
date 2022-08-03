@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Concert One', cursive;
+
+}
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 22px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+#time{
+    display: flex;
+    padding: 12px;
+    font-size: 140px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+#bAdd{
+    font-size: 18px;
+}
+
+.task{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    align-items: center;
+    gap: 5px;
+}
+
+.start-button{
+    font-size: 24px;
+    
+}
+
+.title{
+    font-size: 28px;
+    align-items: center;
+}
+
+.done{
+    font-size: 20px;
+}
+
+#taskname{
+    font-size: 55px;
+}
