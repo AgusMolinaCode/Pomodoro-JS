@@ -20,10 +20,11 @@ h1{
 
 #time{
     display: flex;
-    padding: 12px;
+    margin: 12px;
     font-size: 140px;
     flex-direction: column;
     align-items: center;
+    gap: 10px;
 }
 
 .form{
@@ -59,4 +60,8 @@ h1{
 
 #taskname{
     font-size: 55px;
+}
+
+.tasks-container{
+    margin: 10px;
 }
